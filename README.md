@@ -20,6 +20,8 @@
 ### Ответ 1
 
  ![Снимок экрана 2024-07-30 173748](https://github.com/user-attachments/assets/1414b96e-72e3-480f-804d-e33ddbc266c3)
+
+ 
 ![Снимок экрана 2024-07-30 173816](https://github.com/user-attachments/assets/58ec25ad-4fc3-4dc5-8068-4d5735ab2066)
 
 
@@ -37,8 +39,14 @@
 ### Решение 2
 
 ![Снимок экрана 2024-07-30 174737](https://github.com/user-attachments/assets/75310f2b-72b4-4555-95c2-32f6ee95b393)
+
+
 ![Снимок экрана 2024-07-30 175328](https://github.com/user-attachments/assets/3e0de5cb-2a10-4ca3-aefa-f1d012f18d39)
+
+
 ![Снимок экрана 2024-07-30 180126](https://github.com/user-attachments/assets/0aec638c-9f94-4aae-ab0e-074ae680467c)
+
+
 ![Снимок экрана 2024-07-30 180718](https://github.com/user-attachments/assets/dbae0a42-f959-4790-80ba-c0b2b913894b)
 
 
